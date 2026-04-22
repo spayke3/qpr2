@@ -10704,7 +10704,7 @@ cc_prebuilt_library_shared {
                 "libutils",
                 "libcutils",
                 "liblog",
-                "libui-v32",
+                "libui-v34",
                 "libion",
                 "libged",
                 "libion_mtk",
@@ -17377,7 +17377,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libui-v32",
+    name: "libui-v34",
     owner: "xiaomi",
     strip: {
         none: true,
